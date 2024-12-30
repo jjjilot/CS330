@@ -1,0 +1,20 @@
+directory structure	1
+source file		1	(x1)
+compiles		1	(x2)
+auto testing 1		1	(x1)
+auto testing 2		0	(x1)
+auto testing 3		1	(x1)
+==============================
+Final	5 / 6
+
+Correct output should be:
+-1
+10 20 30
+
+
+Elem(id=3, data=2, next=
+Elem(id=4, data=3, next=
+Elem(id=5, data=5, next=
+Elem(id=6, data=7, next=
+
+7

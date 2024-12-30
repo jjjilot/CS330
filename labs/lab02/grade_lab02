@@ -1,0 +1,8 @@
+directory structure	1
+source file		1 (x1)
+compiles		1 (x2)
+auto testing 1		0 (x3)
+==============================
+Final	3
+
+Wrong implementation for apply_by_col() and also wrong function call in main()

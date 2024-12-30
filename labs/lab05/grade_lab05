@@ -1,0 +1,10 @@
+directory structure	1
+compiles		1
+dynamic compiles		1
+correct static_library		1
+correct dynamic_library		0
+correct Makefile		0
+==============================
+Final	4
+
+You named the shared object different than instructed, but it works fine (4->6)

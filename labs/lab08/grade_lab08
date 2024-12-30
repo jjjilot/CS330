@@ -1,0 +1,7 @@
+directory structure	1
+source file		1	(x1)
+compiles		1	(x2)
+auto testing positive		0	(x2)
+auto testing negative		1	(x1)
+==============================
+Final	4 / 6
