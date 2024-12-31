@@ -11,3 +11,5 @@ Upon successful completion of the course, students will be able to:
   - demonstrate the ability to program moderate-sized programs using the C++ programming language;
   - demonstrate the ability to use gdb and valgrind to find and correct programmatic and memory errors in C programs;
   - demonstrate the ability to translate high-level algorithms to fully functional and bug-free implementations using C and C++.
+
+Taught by Dr. Jee Choi at University of Oregon
